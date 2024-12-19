@@ -71,11 +71,8 @@ NGINX Docker Image builder
 ```
 
 1. Clone this repository
-2. For NGINX Plus only: get your license certificate and key to fetch NGINX Management Suite packages from NGINX repository
-3. [Install](https://docs.nginx.com/nginx-management-suite/) and start NGINX Management Suite / NGINX Instance Manager. Skip this step if using the NGINX SaaS console
-4. Build the Docker image using `./scripts/build.sh`
-
-the build script will push the image to your private registry once build is complete.
+2. For NGINX Plus only: get your license certificate and key
+3. Build the Docker image using `./scripts/build.sh`
 
 ### Running the docker image on Kubernetes
 
