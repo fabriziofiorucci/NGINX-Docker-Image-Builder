@@ -9,7 +9,7 @@ This repository can be used to build a docker image that includes:
 - [NGINX App Protect WAF](https://docs.nginx.com/nginx-app-protect-waf)
 - [NGINX Agent](https://docs.nginx.com/nginx-agent)
 
-It is also available as part of [official NGINX Demos](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-agent-docker)
+It is also available as part of [official NGINX Demos](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-docker-builder)
 
 ## Tested releases
 
