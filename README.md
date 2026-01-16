@@ -1,3 +1,5 @@
+# This repository has been archived. Please see the [official NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/docker-image-builder) for the maintained version
+
 # NGINX Docker image builder
 
 ## Description
